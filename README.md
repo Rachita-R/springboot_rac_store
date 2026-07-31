@@ -84,7 +84,7 @@ without modifying the business logic.
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/rac_store.git
+git clone https://github.com/Rachita-R/rac_store.git
 ```
 
 ### Navigate to the project
